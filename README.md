@@ -1,2 +1,2 @@
-# Mer-Whil-Bo
-webpage for Mer-Whil-Bo guesthouse
+# Our first Blog 
+using git
